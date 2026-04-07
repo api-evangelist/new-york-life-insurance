@@ -1,7 +1,12 @@
 aid: new-york-life-insurance
-url: https://raw.githubusercontent.com/api-evangelist/new-york-life-insurance/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/new-york-life-insurance/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.new-york-life-insurance.com
+description: >-
+  New York Life Insurance is the largest mutual life insurance company in the United
+  States, providing life insurance, retirement income, investments, and long-term
+  care insurance.
